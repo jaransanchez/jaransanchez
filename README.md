@@ -1,4 +1,7 @@
-## Hi there 👋
+# Jarán Sánchez - Data Analyst Portfolio
+🔹 Python | Pandas | NumPy | Matplotlib | Seaborn  
+🔹 Projects in video game analytics, telecom data, and more  
+Explore my work, see the insights, and follow my journey in data analysis!
 
 <!--
 **jaransanchez/jaransanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
